@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomasz Sas</h1>
-<h3 align="center">Software tester especially interested in automation</h3>
+<h3 align="center">Software tester and developer especially interested in test automation with python</h3>
 
 - 🔭 I’m currently working on [automation api testing for clickup.com](https://github.com/SasTomasz/testing_trello)
 
-- 🌱 I’m currently learning **Automation with java rest assured and automation test with python**
+- 🌱 I’m currently learning **Web development with JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SasTomasz](https://github.com/SasTomasz)
 
